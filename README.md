@@ -1,3 +1,3 @@
-# python study practice
+# python practice
 
-this rep contains practice tasks 
+this repo contains practice tasks 
